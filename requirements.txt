@@ -2,3 +2,4 @@ joblib
 tensorflow
 scikit-learn
 librosa
+opencv-python-headless
